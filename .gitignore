@@ -42,22 +42,6 @@ ENV/
 runs/
 *.log
 
-# Video files
-*.mp4
-*.avi
-*.mov
-*.wmv
-output_video.mp4
-
-# Data and Results
-data_images/
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-
 # Logs and databases
 *.log
 *.sqlite
