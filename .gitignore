@@ -34,16 +34,11 @@ ENV/
 *.swo
 .DS_Store
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
-
 # YOLO and Model files
 *.pt
 *.pth
 *.weights
 *.onnx
-Model/weights/
 runs/
 *.log
 
